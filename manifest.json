@@ -1,6 +1,6 @@
 {
-  "name": "Cank Music",
-  "short_name": "Cank",
+  "name": "Ken Music",
+  "short_name": "Ken",
   "description": "Tu biblioteca personal de música, podcasts y audiolibros. Offline. Tuya. Liquid Glass.",
   "start_url": "./",
   "display": "standalone",
