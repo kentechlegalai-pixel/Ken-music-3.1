@@ -1,5 +1,5 @@
-/* Cank Music — Service Worker v4 */
-const CACHE = 'cankmusic-v4';
+/* Ken Music — Service Worker v4 */
+const CACHE = 'kenmusic-v4';
 const STATIC = [
   './',
   './index.html',
